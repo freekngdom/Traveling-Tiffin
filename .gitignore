@@ -1,5 +1,5 @@
 
-# Created by https://www.gitignore.io/api/node,macos
+# Created by https://www.gitignore.io/api/node,macos,visualstudiocode
 
 ### macOS ###
 *.DS_Store
@@ -100,6 +100,6 @@ typings/
 # End of https://www.gitignore.io/api/visualstudiocode
 
 Fav Food
-Img
+Imgs
 .github
 .vscode
